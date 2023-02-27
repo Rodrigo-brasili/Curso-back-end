@@ -1,0 +1,13 @@
+
+AREA DE UM POLIGONO USANDO
+{
+Ifelse
+do/while
+}
+Calculadora de tabuada
+{
+For
+}
+etc, etc
+
+
